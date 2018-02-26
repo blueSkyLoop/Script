@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 68 (0x44)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=GD, L=GUANGZHOU, O=ILEGEND, OU=changeme, CN=OpenVPN-ca/name=OpenVpn-ca/emailAddress=joehuang@ilegend.cn
+        Validity
+            Not Before: Jan 21 03:13:07 2015 GMT
+            Not After : Jan 18 03:13:07 2025 GMT
+        Subject: C=CN, ST=GD, L=GUANGZHOU, O=ILEGEND, OU=changeme, CN=zh001/name=changeme/emailAddress=mail@host.domain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:b1:f4:b6:7c:93:9a:3e:e9:60:61:b7:88:95:54:
+                    40:bb:40:49:25:15:4c:12:40:39:1f:40:ee:43:9a:
+                    10:22:76:94:67:2f:05:f6:c9:e8:cb:14:6d:02:56:
+                    43:13:d4:e7:3c:5a:57:c4:50:19:42:ec:2f:cc:ab:
+                    2d:7b:da:95:0e:d4:b9:6a:f8:94:57:3d:d9:ff:ac:
+                    a9:25:39:c3:ff:e6:0a:85:6e:8b:ba:71:2c:40:ba:
+                    a4:31:f8:b4:c4:42:28:ea:5d:56:f5:55:4c:fc:56:
+                    b8:c1:d8:98:a3:e4:ac:eb:2f:76:0f:f2:e0:25:bd:
+                    0c:37:03:1e:80:73:30:a4:eb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                57:C6:6D:6D:35:34:20:AC:88:46:34:C1:B2:F4:45:DA:6C:1C:08:E5
+            X509v3 Authority Key Identifier: 
+                keyid:CB:39:61:5B:FE:8F:1C:D8:C4:D0:C9:6C:14:4E:AE:B5:2D:AE:1D:B4
+                DirName:/C=CN/ST=GD/L=GUANGZHOU/O=ILEGEND/OU=changeme/CN=OpenVPN-ca/name=OpenVpn-ca/emailAddress=joehuang@ilegend.cn
+                serial:DC:48:FE:42:E3:EF:86:51
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        22:b7:2e:4c:63:88:6d:47:ea:c8:d7:94:fb:6a:4e:1a:77:d1:
+        e2:ee:51:f3:b2:84:64:46:13:cd:76:b9:24:9d:8d:86:56:8a:
+        59:bf:be:ac:f6:5f:d6:d2:f4:f2:ce:a0:fe:1d:44:d0:4d:f9:
+        9f:f4:63:8c:d4:de:41:1d:46:df:37:bb:d7:b6:e7:cd:a9:2a:
+        44:de:c2:52:a9:ce:21:9f:cf:4f:ad:e8:3b:31:52:33:c9:89:
+        20:d4:5f:2f:df:e7:46:17:81:ac:07:bb:4b:8d:23:ca:ab:e1:
+        f8:46:50:51:c8:67:9d:c6:f0:3e:94:79:05:cb:1e:c6:b7:2b:
+        ba:ae
+-----BEGIN CERTIFICATE-----
+MIIECjCCA3OgAwIBAgIBRDANBgkqhkiG9w0BAQUFADCBoTELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkdEMRIwEAYDVQQHEwlHVUFOR1pIT1UxEDAOBgNVBAoTB0lMRUdF
+TkQxETAPBgNVBAsTCGNoYW5nZW1lMRMwEQYDVQQDEwpPcGVuVlBOLWNhMRMwEQYD
+VQQpEwpPcGVuVnBuLWNhMSIwIAYJKoZIhvcNAQkBFhNqb2VodWFuZ0BpbGVnZW5k
+LmNuMB4XDTE1MDEyMTAzMTMwN1oXDTI1MDExODAzMTMwN1owgZcxCzAJBgNVBAYT
+AkNOMQswCQYDVQQIEwJHRDESMBAGA1UEBxMJR1VBTkdaSE9VMRAwDgYDVQQKEwdJ
+TEVHRU5EMREwDwYDVQQLEwhjaGFuZ2VtZTEOMAwGA1UEAxMFemgwMDExETAPBgNV
+BCkTCGNoYW5nZW1lMR8wHQYJKoZIhvcNAQkBFhBtYWlsQGhvc3QuZG9tYWluMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCx9LZ8k5o+6WBht4iVVEC7QEklFUwS
+QDkfQO5DmhAidpRnLwX2yejLFG0CVkMT1Oc8WlfEUBlC7C/Mqy172pUO1Llq+JRX
+Pdn/rKklOcP/5gqFbou6cSxAuqQx+LTEQijqXVb1VUz8VrjB2Jij5KzrL3YP8uAl
+vQw3Ax6AczCk6wIDAQABo4IBWDCCAVQwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0E
+IBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBRXxm1t
+NTQgrIhGNMGy9EXabBwI5TCB1gYDVR0jBIHOMIHLgBTLOWFb/o8c2MTQyWwUTq61
+La4dtKGBp6SBpDCBoTELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAkdEMRIwEAYDVQQH
+EwlHVUFOR1pIT1UxEDAOBgNVBAoTB0lMRUdFTkQxETAPBgNVBAsTCGNoYW5nZW1l
+MRMwEQYDVQQDEwpPcGVuVlBOLWNhMRMwEQYDVQQpEwpPcGVuVnBuLWNhMSIwIAYJ
+KoZIhvcNAQkBFhNqb2VodWFuZ0BpbGVnZW5kLmNuggkA3Ej+QuPvhlEwEwYDVR0l
+BAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3DQEBBQUAA4GBACK3
+LkxjiG1H6sjXlPtqThp30eLuUfOyhGRGE812uSSdjYZWilm/vqz2X9bS9PLOoP4d
+RNBN+Z/0Y4zU3kEdRt83u9e2582pKkTewlKpziGfz0+t6DsxUjPJiSDUXy/f50YX
+gawHu0uNI8qr4fhGUFHIZ53G8D6UeQXLHsa3K7qu
+-----END CERTIFICATE-----
